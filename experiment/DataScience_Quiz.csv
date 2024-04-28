@@ -1,0 +1,6 @@
+mcq,options,correct
+What term was coined in 1959 by Arthur Samuel to describe the field of computer gaming and artificial intelligence?,"{'a': 'Artificial Intelligence', 'b': 'Machine Learning', 'c': 'Data Mining', 'd': 'Neural Networks'}",b
+"Who published the book 'The Organization of Behavior' in 1949, introducing a theoretical neural structure?","{'a': 'Arthur Samuel', 'b': 'Donald Hebb', 'c': 'Walter Pitts', 'd': 'Warren McCulloch'}",b
+"In which decade did machine learning start to flourish as its own field, shifting focus from symbolic approaches inherited from AI?","{'a': '1950s', 'b': '1970s', 'c': '1990s', 'd': '2000s'}",c
+"What is the main goal of data mining, as opposed to machine learning?","{'a': 'Prediction', 'b': 'Discovery of unknown properties', 'c': 'Optimization', 'd': 'Generalization'}",b
+"Which field draws population inferences from a sample, while machine learning finds generalizable predictive patterns?","{'a': 'Artificial Intelligence', 'b': 'Data Mining', 'c': 'Statistics', 'd': 'Neural Networks'}",c
